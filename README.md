@@ -3,8 +3,8 @@ This is a feature-rich bot with multiple purposes - Music, High Moderation, Fun,
 It has over 120 commands! Made with discord.js and last but not the least, Multi and Singleplayer Games for your entertainment! This repo provides support to everyone, feel free to open an issue
 
 ## Invite ##
-* [Server](https://discord.gg/FJNyGam)
-* [Invite Bot](https://discord.com/oauth2/authorize?client_id=694191215062679604&scope=bot&permissions=2146958583)
+* [Server](https://discord.com/invite/WM6nPhx)
+* [Invite Bot](https://discordapp.com/oauth2/authorize?client_id=744597377406599188&scope=bot&permissions=2088234238)
 
 ## List of Commands - ##
 * Economy
