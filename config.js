@@ -1,4 +1,4 @@
-exports.TOKEN = 'NzQ0NTk3Mzc3NDA2NTk5MTg4.XzliWA.eKZukq4NYtoi2q2dpqBM8s690sw';
+exports.TOKEN = 'Nzc5NDI5NDg0NTc5MjU4Mzc4.X7gaRg.qvLw3SQOj-SGnx6hkIGBbMdZVc8';
 
 exports.PREFIX = 'q';
 
